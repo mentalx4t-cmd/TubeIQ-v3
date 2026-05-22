@@ -1,0 +1,6 @@
+{
+  "name": "vidIQ Creator Suite",
+  "description": "vidIQ Duplicate with Gemini 1.5 Flash for real-time Keyword Analysis, SEO Video Optimizer, Predictive Engagement Tracker, and Monthly Analytics PDF Export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
